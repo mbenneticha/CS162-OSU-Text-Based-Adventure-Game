@@ -1,14 +1,14 @@
 # Text-Based-RPG
 
-RPG using OOP (object oriented programming).
-Features:
+RPG using OOP (object oriented programming).</n>
+Features:</n>
 	•Inheritance
 	•Polymorphism
 	•Abstract Classes
 	•Pure Virtual Functions
 	•Pointers
 	
-Programmed in C++ with the following elements as challenge requirements:
+Programmed in C++ with the following elements as challenge requirements:</n>
   •Game must include at least 5 spaces
   •Each space must be a class
   •Each space must have at least 4 pointers

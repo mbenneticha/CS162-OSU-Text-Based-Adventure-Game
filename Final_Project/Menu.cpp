@@ -15,7 +15,7 @@ int Menu::game_menu()
 {
     int menu;
     std::cout << "Please choose what you would like to do." <<std::endl;
-    std::cout << "1: Start the game. (Game has a timer for 15 minutes!)" <<std::endl;
+    std::cout << "1: Start the game." <<std::endl;
     std::cout << "2: Exit." <<std::endl;
     std::cin >> menu;
     return menu;
